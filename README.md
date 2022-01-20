@@ -19,7 +19,7 @@
    <a href="#" alt="Instagram">
       <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gabrielforlen"/>     </a><br /><br />
  
-    <img align='center' src="https://github-readme-stats.vercel.app/api?username=gabrielf0rlen&show_icons=true&title_color=FFFFFF&text_color=FFD700e&icon_color=FFD700&bg_color=0d1017&cache_seconds=2300">
+    <img align='center' src="">
  
   </p>
 
