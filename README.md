@@ -1,7 +1,6 @@
 ### Seja bem vindo ao meu GitHub! 👋
 
-  
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px"           align="right" alt="Computador iuriCode">
+ 
 
    <p align="left"> 
       Olá! Muito prazer eu me chamo João Gabriel Sá de Oliveira, tenho 17 anos de idade e sou Técnico em Desenvolvimento de Sistemas, estou atualmente
