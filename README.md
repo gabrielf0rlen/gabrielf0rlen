@@ -10,7 +10,7 @@
       Entre em contato comigo: 👇
     </p>
     <p align="center">
-    <a href="jgsao22@gmail.com" alt="Gmail">
+    <a href="mailto:jgsao22@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jgsao22@gmail.com" /></a>
 
    <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-s%C3%A1-de-oliveira-a1b095217" alt="Linkedin">
