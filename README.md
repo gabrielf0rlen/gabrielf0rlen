@@ -3,7 +3,7 @@
  
 
    <p align="left"> 
-      Olá! Muito prazer eu me chamo João Gabriel Sá de Oliveira, tenho 17 anos de idade e sou Técnico em Desenvolvimento de Sistemas, estou atualmente
+      Olá! Muito prazer eu me chamo João Gabriel Sá de Oliveira, tenho 18 anos de idade e sou Técnico em Desenvolvimento de Sistemas, estou atualmente
      cursando Ciência da Computação na <strong>Faculdade IMPACTA</strong> e sou um entusiasta de Front-End e Java. :)
     </p>
     <p align="center">
