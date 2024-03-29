@@ -4,7 +4,7 @@
 
    <p align="left"> 
       Olá! Muito prazer eu me chamo João Gabriel Sá de Oliveira, tenho 19 anos de idade e sou Técnico em Desenvolvimento de Sistemas, estou atualmente
-     cursando Ciência da Computação na <strong>Cruzeiro do Sul</strong> e sou um entusiasta de Back-End e Java. :)
+     cursando Ciência da Computação na <strong>Cruzeiro do Sul</strong>. :)
     </p>
     <p align="center">
       Entre em contato comigo: 👇
